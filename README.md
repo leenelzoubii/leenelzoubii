@@ -45,7 +45,7 @@ Computer-vision assistance that helps healthcare professionals detect ASD indica
 
 AI-powered chatbot for Applied Technology Schools — a digital assistant for students, parents, staff, and visitors, grounded in official ATS resources.
 
-<a href="https://github.com/leenelzoubii/manara-ai"><img src="https://img.shields.io/badge/VIEW_SOURCE-c2185b?style=for-the-badge" alt="Manara source"/></a>
+<a href="https://manara-ats.streamlit.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="Manara demo"/></a>
 
 &nbsp;
 
