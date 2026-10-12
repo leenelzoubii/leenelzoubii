@@ -33,8 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sibaaljarrah&repo=JASMINE&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="JASMINE pin"/>
 </a>
 
-Computer-vision assistance that helps healthcare professionals detect ASD indicators efficiently and objectively.
-
 <p align="center">
   <a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
   <a href="https://github.com/sibaaljarrah/JASMINE"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="JASMINE repo"/></a>
@@ -48,8 +46,6 @@ Computer-vision assistance that helps healthcare professionals detect ASD indica
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=manara-ai&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="Manara pin"/>
 </a>
 
-AI-powered chatbot for Applied Technology Schools — a digital assistant for students, parents, staff, and visitors, grounded in official ATS resources.
-
 <p align="center">
   <a href="https://manara-ats.streamlit.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="Manara demo"/></a>
   <a href="https://github.com/leenelzoubii/manara-ai"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="Manara repo"/></a>
@@ -62,8 +58,6 @@ AI-powered chatbot for Applied Technology Schools — a digital assistant for st
 <a href="https://github.com/leenelzoubii/Ancient-Civilization-Reconstructor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=Ancient-Civilization-Reconstructor&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="ACR pin"/>
 </a>
-
-Virtual-tourism platform where ancient worlds come alive in 3D, with an AI Artifact Restorer that repaints cracks and missing pieces of history.
 
 <p align="center">
   <a href="https://tourism-app-next.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="ACR demo"/></a>
