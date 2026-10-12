@@ -1,11 +1,13 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Leen+El+Zoubi&fontSize=42&fontColor=ffd6ea&bgColor=1a0b13&animation=fadeIn" width="100%" alt="Leen El Zoubi banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&bgColor=1a0b13" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=30&duration=3500&pause=1200&color=ffb6c1&center=true&vCenter=true&width=650&lines=data+scientist+%C2%B7+nlp+%2B+computer+vision%3Bfrontend+%26+ai+on+the+side" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=42&duration=3000&pause=1200&color=ffd6ea&center=true&vCenter=true&width=650&lines=Leen+El+Zoubi" alt="Leen El Zoubi" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=28&duration=3500&pause=1200&color=ffb6c1&center=true&vCenter=true&width=650&lines=data+scientist+%C2%B7+nlp+%2B+computer+vision%3Bfrontend+%26+ai+on+the+side" alt="Typing SVG" />
 
 <p>
-  <a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-jasmine-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
+  <a href="https://www.linkedin.com/in/leen-el-zoubi-425342255/"><img src="https://img.shields.io/badge/LINKEDIN-ff1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:leenelzoubi11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-leenelzoubi11@gmail.com-c2185b?style=for-the-badge" alt="Email"/></a>
 </p>
 
