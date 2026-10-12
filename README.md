@@ -1,13 +1,12 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=32&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Leene+Khalid%3BCS+student+%C2%B7+Frontend+%26+AI" alt="Typing SVG: Hi, I'm Leene Khalid" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Leen+El+Zoubi&fontSize=42&fontColor=ffd6ea&bgColor=1a0b13&animation=fadeIn" width="100%" alt="Leen El Zoubi banner" />
 
-<p><em>Frontend developer and history lover, building interactive worlds on the web.</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=30&duration=3500&pause=1200&color=ffb6c1&center=true&vCenter=true&width=650&lines=data+scientist+%C2%B7+nlp+%2B+computer+vision%3Bfrontend+%26+ai+on+the+side" alt="Typing SVG" />
 
 <p>
-  <a href="https://tourism-app-next.vercel.app"><img src="https://img.shields.io/badge/VISIT_THE_SITE-ff69b4?style=for-the-badge" alt="Visit the site"/></a>
-  <a href="https://github.com/7nk2jkrmc4-hue/Graduation-Project---ACR"><img src="https://img.shields.io/badge/GRADUATION_PROJECT-the_reconstructor-98fb98?style=for-the-badge" alt="Graduation project"/></a>
-  <a href="mailto:leen.khalid2005@gmail.com"><img src="https://img.shields.io/badge/SEND_A_LETTER-da70d6?style=for-the-badge" alt="Email"/></a>
+  <a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-jasmine-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
+  <a href="mailto:leenelzoubi11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-leenelzoubi11@gmail.com-c2185b?style=for-the-badge" alt="Email"/></a>
 </p>
 
 ---
@@ -16,47 +15,76 @@
 
 ## About me
 
-- Final-year CS student building **Ancient Civilization Reconstructor** — a virtual-tourism platform with an **AI Artifact Restorer** that repairs damaged artifact photos.
-- Currently learning more about AI integrations and 3D on the web.
-- Ask me about React, TypeScript, or keeping AI APIs on budget.
+- Data scientist focused on **NLP** and **computer vision**, with lots left to learn.
+- Building AI-assisted products end to end — from model work to the web interfaces people actually use.
+- Women in STEM.
+
+---
+
+## Projects
+
+<div align="center">
+
+### JASMINE
+
+<a href="https://github.com/sibaaljarrah/JASMINE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sibaaljarrah&repo=JASMINE&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="JASMINE pin"/>
+</a>
+
+Computer-vision assistance that helps healthcare professionals detect ASD indicators efficiently and objectively.
+
+<a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
+
+&nbsp;
+
+### Manara
+
+<a href="https://github.com/leenelzoubii/manara-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=manara-ai&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="Manara pin"/>
+</a>
+
+AI-powered chatbot for Applied Technology Schools — a digital assistant for students, parents, staff, and visitors, grounded in official ATS resources.
+
+<a href="https://github.com/leenelzoubii/manara-ai"><img src="https://img.shields.io/badge/VIEW_SOURCE-c2185b?style=for-the-badge" alt="Manara source"/></a>
+
+&nbsp;
+
+### Ancient Civilization Reconstructor
+
+<a href="https://github.com/leenelzoubii/Ancient-Civilization-Reconstructor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=Ancient-Civilization-Reconstructor&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="ACR pin"/>
+</a>
+
+Virtual-tourism platform where ancient worlds come alive in 3D, with an AI Artifact Restorer that repaints cracks and missing pieces of history.
+
+<a href="https://tourism-app-next.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="ACR demo"/></a>
+
+</div>
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leenelzoubii&show_icons=true&theme=transparent&hide_border=true&bg_color=FFE6F2&title_color=D63384&icon_color=C2255C&text_color=8B4A6B&ring_color=FFB6C1&rank_icon=github" alt="Leen's stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenelzoubii&layout=compact&theme=transparent&hide_border=true&bg_color=FFE6F2&title_color=D63384&text_color=8B4A6B&langs_count=6" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leenelzoubii&show_icons=true&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&icon_color=ff69b4&text_color=ffd6ea&ring_color=ff1493&rank_icon=github" alt="Leen's stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenelzoubii&layout=compact&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&langs_count=6" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leenelzoubii&hide_border=true&background=FFE6F2&ring=FF69B4&fire=FF69B4&currStreakNum=2E8B57&sideNums=9370DB&currStreakLabel=6B8E23&sideLabels=C71585&dates=CD853F&stroke=FFB6C1" alt="Streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=leenelzoubii&hide_border=true&background=1a0b13&ring=ff69b4&fire=ff1493&currStreakNum=ffb6c1&sideNums=ff69b4&currStreakLabel=ffd6ea&sideLabels=ff69b4&dates=8B4A6B&stroke=4a0e2e" alt="Streak stats"/>
 </p>
-
----
-
-## Featured project
-
-<a href="https://github.com/7nk2jkrmc4-hue/Graduation-Project---ACR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7nk2jkrmc4-hue&repo=Graduation-Project---ACR&theme=transparent&hide_border=true&bg_color=FFE6F2&title_color=D63384&text_color=8B4A6B&icon_color=C2255C" alt="Graduation Project pin"/>
-</a>
-
-**Ancient Civilization Reconstructor** — a virtual-tourism platform where ancient worlds come alive in 3D, with an AI Artifact Restorer that repaints the cracks and missing pieces of history.
-
-Built with: `React 19` · `TypeScript` · `Vite` · `Tailwind CSS v4` · `OpenAI API` · `Vercel Serverless`
 
 ---
 
 ## Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-ff1493?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/OpenAI-c2185b?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Vercel-8B0A50?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-7b1fa2?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
