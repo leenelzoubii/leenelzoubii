@@ -17,11 +17,8 @@
 
 </div>
 
-## About me
 
-- Data scientist focused on **NLP** and **computer vision**, with lots left to learn.
-- Building AI-assisted products end to end — from model work to the web interfaces people actually use.
-- Women in STEM.
+women in STEM woohoo! ⋆𐙚₊˚⊹♡
 
 ---
 
