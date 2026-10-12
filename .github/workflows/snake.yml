@@ -24,8 +24,9 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#2ea043&color_dots=#2ea043,#f85149,#d29922,#3fb950
 
       - name: push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          branch: output
-          folder: dist
-          clean: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: false
