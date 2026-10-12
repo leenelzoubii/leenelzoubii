@@ -27,41 +27,35 @@
 
 <div align="center">
 
-### JASMINE
-
 <a href="https://github.com/sibaaljarrah/JASMINE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sibaaljarrah&repo=JASMINE&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="JASMINE pin"/>
+  <img width="560" src="https://github-readme-stats.vercel.app/api/pin/?username=sibaaljarrah&repo=JASMINE&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="JASMINE pin"/>
 </a>
 
 <p align="center">
-  <a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
-  <a href="https://github.com/sibaaljarrah/JASMINE"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="JASMINE repo"/></a>
+  <a href="https://jasmine-hazel.vercel.app"><img width="150" src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
+  <a href="https://github.com/sibaaljarrah/JASMINE"><img width="165" src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="JASMINE repo"/></a>
 </p>
 
 &nbsp;
-
-### Manara
 
 <a href="https://github.com/leenelzoubii/manara-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=manara-ai&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="Manara pin"/>
+  <img width="560" src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=manara-ai&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="Manara pin"/>
 </a>
 
 <p align="center">
-  <a href="https://manara-ats.streamlit.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="Manara demo"/></a>
-  <a href="https://github.com/leenelzoubii/manara-ai"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="Manara repo"/></a>
+  <a href="https://manara-ats.streamlit.app"><img width="150" src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="Manara demo"/></a>
+  <a href="https://github.com/leenelzoubii/manara-ai"><img width="165" src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="Manara repo"/></a>
 </p>
 
 &nbsp;
 
-### Ancient Civilization Reconstructor
-
 <a href="https://github.com/leenelzoubii/Ancient-Civilization-Reconstructor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=Ancient-Civilization-Reconstructor&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="ACR pin"/>
+  <img width="560" src="https://github-readme-stats.vercel.app/api/pin/?username=leenelzoubii&repo=Ancient-Civilization-Reconstructor&theme=transparent&hide_border=true&bg_color=0,2a0a18,1a0b13&title_color=ff69b4&text_color=ffd6ea&icon_color=ff1493" alt="ACR pin"/>
 </a>
 
 <p align="center">
-  <a href="https://tourism-app-next.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="ACR demo"/></a>
-  <a href="https://github.com/leenelzoubii/Ancient-Civilization-Reconstructor"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="ACR repo"/></a>
+  <a href="https://tourism-app-next.vercel.app"><img width="150" src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="ACR demo"/></a>
+  <a href="https://github.com/leenelzoubii/Ancient-Civilization-Reconstructor"><img width="165" src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="ACR repo"/></a>
 </p>
 
 </div>
