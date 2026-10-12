@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/leenelzoubii/leenelzoubii/main/assets/name-sacramento.svg" width="520" alt="Leen El Zoubi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&weight=500&size=32&duration=3500&pause=1200&color=ffb6c1&center=true&vCenter=true&width=650&lines=data+scientist+%C2%B7+nlp+%2B+computer+vision%3Bfrontend+%26+ai+on+the+side" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins:wght@400;500&size=24&duration=3500&pause=1200&color=ffb6c1&center=true&vCenter=true&width=650&lines=data+scientist+%C2%B7+nlp+%2B+computer+vision%3Bfrontend+%26+ai+on+the+side" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/leen-el-zoubi-425342255/"><img src="https://img.shields.io/badge/LINKEDIN-ff1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
