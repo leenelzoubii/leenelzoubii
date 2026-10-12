@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/leenelzoubii/leenelzoubii/main/assets/banner.svg" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=42&duration=3000&pause=1200&color=ffd6ea&center=true&vCenter=true&width=650&lines=Leen+El+Zoubi" alt="Leen El Zoubi" />
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/leenelzoubii/leenelzoubii/main/assets/name.svg" width="520" alt="Leen El Zoubi" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=28&duration=3500&pause=1200&color=ffb6c1&center=true&vCenter=true&width=650&lines=data+scientist+%C2%B7+nlp+%2B+computer+vision%3Bfrontend+%26+ai+on+the+side" alt="Typing SVG" />
 
