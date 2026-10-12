@@ -33,7 +33,10 @@
 
 Computer-vision assistance that helps healthcare professionals detect ASD indicators efficiently and objectively.
 
-<a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
+<p align="center">
+  <a href="https://jasmine-hazel.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="JASMINE demo"/></a>
+  <a href="https://github.com/sibaaljarrah/JASMINE"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="JASMINE repo"/></a>
+</p>
 
 &nbsp;
 
@@ -45,7 +48,10 @@ Computer-vision assistance that helps healthcare professionals detect ASD indica
 
 AI-powered chatbot for Applied Technology Schools — a digital assistant for students, parents, staff, and visitors, grounded in official ATS resources.
 
-<a href="https://manara-ats.streamlit.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="Manara demo"/></a>
+<p align="center">
+  <a href="https://manara-ats.streamlit.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="Manara demo"/></a>
+  <a href="https://github.com/leenelzoubii/manara-ai"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="Manara repo"/></a>
+</p>
 
 &nbsp;
 
@@ -57,7 +63,10 @@ AI-powered chatbot for Applied Technology Schools — a digital assistant for st
 
 Virtual-tourism platform where ancient worlds come alive in 3D, with an AI Artifact Restorer that repaints cracks and missing pieces of history.
 
-<a href="https://tourism-app-next.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="ACR demo"/></a>
+<p align="center">
+  <a href="https://tourism-app-next.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-ff1493?style=for-the-badge" alt="ACR demo"/></a>
+  <a href="https://github.com/leenelzoubii/Ancient-Civilization-Reconstructor"><img src="https://img.shields.io/badge/VIEW_REPO-c2185b?style=for-the-badge" alt="ACR repo"/></a>
+</p>
 
 </div>
 
