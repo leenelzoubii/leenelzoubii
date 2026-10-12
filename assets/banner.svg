@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a0b13"/>
+      <stop offset="0.5" stop-color="#2a0a18"/>
+      <stop offset="1" stop-color="#1a0b13"/>
+    </linearGradient>
+    <g id="leaf">
+      <ellipse rx="14" ry="6" fill="#4a8f5c"/>
+      <line x1="-12" y1="0" x2="12" y2="0" stroke="#3d7a4e" stroke-width="1"/>
+    </g>
+    <g id="flower5">
+      <ellipse cx="0" cy="-13" rx="8" ry="14"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="14" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="14" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="14" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="14" transform="rotate(288)"/>
+      <circle cx="0" cy="0" r="6" fill="#fff0f5"/>
+    </g>
+    <g id="spark">
+      <path d="M0,-8 Q1.5,-1.5 8,0 Q1.5,1.5 0,8 Q-1.5,1.5 -8,0 Q-1.5,-1.5 0,-8 Z" fill="#ffd6ea"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- left vine -->
+  <path d="M-10,130 C120,70 230,160 360,100 S540,65 600,105" fill="none" stroke="#4a8f5c" stroke-width="3" stroke-linecap="round"/>
+  <!-- right vine -->
+  <path d="M1210,130 C1080,70 970,160 840,100 S660,65 600,105" fill="none" stroke="#4a8f5c" stroke-width="3" stroke-linecap="round"/>
+  <!-- side sprigs -->
+  <path d="M150,88 C160,60 190,50 200,30" fill="none" stroke="#4a8f5c" stroke-width="2"/>
+  <path d="M330,112 C345,140 375,148 390,165" fill="none" stroke="#4a8f5c" stroke-width="2"/>
+  <path d="M1050,88 C1040,60 1010,50 1000,30" fill="none" stroke="#4a8f5c" stroke-width="2"/>
+  <path d="M870,112 C855,140 825,148 810,165" fill="none" stroke="#4a8f5c" stroke-width="2"/>
+
+  <!-- leaves left -->
+  <use href="#leaf" transform="translate(60,105) rotate(-30)"/>
+  <use href="#leaf" transform="translate(130,80) rotate(20)"/>
+  <use href="#leaf" transform="translate(210,120) rotate(-15)" opacity="0.85"/>
+  <use href="#leaf" transform="translate(290,115) rotate(35)"/>
+  <use href="#leaf" transform="translate(370,92) rotate(-25)" opacity="0.9"/>
+  <use href="#leaf" transform="translate(460,78) rotate(15)"/>
+  <use href="#leaf" transform="translate(540,85) rotate(-20)" opacity="0.85"/>
+  <use href="#leaf" transform="translate(196,38) rotate(60)" opacity="0.9"/>
+  <use href="#leaf" transform="translate(392,160) rotate(-60)"/>
+
+  <!-- leaves right -->
+  <use href="#leaf" transform="translate(1140,105) rotate(30)"/>
+  <use href="#leaf" transform="translate(1070,80) rotate(-20)"/>
+  <use href="#leaf" transform="translate(990,120) rotate(15)" opacity="0.85"/>
+  <use href="#leaf" transform="translate(910,115) rotate(-35)"/>
+  <use href="#leaf" transform="translate(830,92) rotate(25)" opacity="0.9"/>
+  <use href="#leaf" transform="translate(740,78) rotate(-15)"/>
+  <use href="#leaf" transform="translate(660,85) rotate(20)" opacity="0.85"/>
+  <use href="#leaf" transform="translate(1004,38) rotate(-60)" opacity="0.9"/>
+  <use href="#leaf" transform="translate(808,160) rotate(60)"/>
+
+  <!-- flowers left -->
+  <use href="#flower5" transform="translate(95,68) scale(0.9)" fill="#ff69b4"/>
+  <use href="#flower5" transform="translate(210,140) scale(0.65)" fill="#da70d6"/>
+  <use href="#flower5" transform="translate(400,72) scale(1.05)" fill="#ffd6ea"/>
+  <use href="#flower5" transform="translate(525,120) scale(0.55)" fill="#ff1493"/>
+  <use href="#flower5" transform="translate(202,28) scale(0.5)" fill="#ffb6c1"/>
+
+  <!-- flowers right -->
+  <use href="#flower5" transform="translate(1105,68) scale(0.9)" fill="#ff69b4"/>
+  <use href="#flower5" transform="translate(990,140) scale(0.65)" fill="#da70d6"/>
+  <use href="#flower5" transform="translate(800,72) scale(1.05)" fill="#ffd6ea"/>
+  <use href="#flower5" transform="translate(675,120) scale(0.55)" fill="#ff1493"/>
+  <use href="#flower5" transform="translate(998,28) scale(0.5)" fill="#ffb6c1"/>
+
+  <!-- buds -->
+  <circle cx="30" cy="122" r="4" fill="#ff69b4"/>
+  <circle cx="255" cy="102" r="3.5" fill="#da70d6"/>
+  <circle cx="480" cy="72" r="4" fill="#ffb6c1"/>
+  <circle cx="1170" cy="122" r="4" fill="#ff69b4"/>
+  <circle cx="945" cy="102" r="3.5" fill="#da70d6"/>
+  <circle cx="720" cy="72" r="4" fill="#ffb6c1"/>
+
+  <!-- sparkles -->
+  <use href="#spark" transform="translate(340,45) scale(0.9)" opacity="0.7"/>
+  <use href="#spark" transform="translate(600,150) scale(1.2)" opacity="0.85"/>
+  <use href="#spark" transform="translate(860,45) scale(0.9)" opacity="0.7"/>
+  <use href="#spark" transform="translate(470,160) scale(0.6)" opacity="0.5"/>
+  <use href="#spark" transform="translate(730,160) scale(0.6)" opacity="0.5"/>
+  <use href="#spark" transform="translate(120,160) scale(0.7)" opacity="0.55"/>
+  <use href="#spark" transform="translate(1080,160) scale(0.7)" opacity="0.55"/>
+
+  <line x1="0" y1="198" x2="1200" y2="198" stroke="#ff69b4" stroke-width="1" opacity="0.4"/>
+  <line x1="0" y1="2" x2="1200" y2="2" stroke="#ff69b4" stroke-width="1" opacity="0.4"/>
+</svg>

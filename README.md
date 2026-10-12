@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&bgColor=1a0b13" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/leenelzoubii/leenelzoubii/main/assets/banner.svg" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=42&duration=3000&pause=1200&color=ffd6ea&center=true&vCenter=true&width=650&lines=Leen+El+Zoubi" alt="Leen El Zoubi" />
 
